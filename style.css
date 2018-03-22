@@ -14,3 +14,18 @@
 img {
     width: 100%;
 }
+
+h2 {
+    font-family: serif;
+    font-size: 20px;
+}
+
+p {
+    font-family: open sans;
+    font-size: 14px;
+}
+
+li {
+    font-family: open sans;
+    font-size: 14px;
+}
